@@ -64,3 +64,6 @@
 [submodule "ruby"]
 	path = ruby
 	url = git://github.com/coraltech/puppet-ruby.git
+[submodule "cloudfuse"]
+	path = cloudfuse
+	url = git://github.com/coraltech/puppet-cloudfuse.git
