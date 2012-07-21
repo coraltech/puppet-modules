@@ -7,9 +7,9 @@
 [submodule "locales"]
 	path = locales
 	url = git://github.com/coraltech/puppet-locales.git
-[submodule "global_lib"]
-	path = global_lib
-	url = git://github.com/coraltech/puppet-global_lib.git
+[submodule "global"]
+	path = global
+	url = git://github.com/coraltech/puppet-global.git
 [submodule "puppet"]
 	path = puppet
 	url = git://github.com/coraltech/puppet-puppet.git
