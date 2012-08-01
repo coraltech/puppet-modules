@@ -67,3 +67,6 @@
 [submodule "cloudfuse"]
 	path = cloudfuse
 	url = git://github.com/coraltech/puppet-cloudfuse.git
+[submodule "keepalived"]
+	path = keepalived
+	url = git://github.com/coraltech/puppet-keepalived.git
